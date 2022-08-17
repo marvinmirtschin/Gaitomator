@@ -1,0 +1,9 @@
+numpy>=1.17.0
+scikit-learn>=0.24.2
+pandas>=1.1.5
+PyWavelets==1.1.1
+pykalman==0.9.5
+plotly>=4.14.3
+matplotlib==3.3.4
+dtaidistance
+prettytable
